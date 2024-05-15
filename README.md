@@ -1,7 +1,7 @@
 
 # Poker Hand Detection using YOLO
 
-![Poker Hand Detection](ppe.jpeg)
+![Poker Hand Detection](ppe.jpg)
 
 ## Overview
 
